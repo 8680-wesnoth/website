@@ -35,7 +35,7 @@ body {
   padding: 0;
   color: #333;
   font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Comic Sans MS', sans-serif;
 }
 
 #global {
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 0.42em;
   background: none;
   color: #222;
-  font-family: Montaga, Junicode, 'Times New Roman', serif;
+  font-family: Comic Sans MS, Montaga, Junicode, 'Times New Roman', serif;
   font-weight: normal;
   line-height: 1em;
 }
